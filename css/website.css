@@ -1,7 +1,12 @@
 body {
   font-family: non-serif, arial;
+  background-image: url("background.jpg");
 }
 h1 {
   font-size: 18px;
-  color: red;
+  color: blue;
+  text-align: center;
+}
+iframe{
+    text-align: center;
 }
